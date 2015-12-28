@@ -1,0 +1,1 @@
+db.review.createIndex({stars:1})

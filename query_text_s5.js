@@ -1,0 +1,1 @@
+db.review.find( {"stars":5}, {"text":1, "stars":1})

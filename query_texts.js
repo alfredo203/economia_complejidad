@@ -1,0 +1,1 @@
+db.getCollection('review').find({},{text:1})
